@@ -34,6 +34,7 @@ Matt-authored content is available under CC BY 4.0. Scripts, hooks, and schemas 
 - [Top-tier books](sources/books/README.md)
 - [Podcasts to retain](sources/podcasts/README.md)
 - [Agent context](agent-context/context.md)
+- [The model-drop ledger (pattern + work bootstrap)](evals/model-drop-ledger.md)
 
 ## What belongs here
 

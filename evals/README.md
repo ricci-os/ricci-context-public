@@ -16,3 +16,7 @@ Candidate scenario families:
 
 Each future evaluation should include the scenario, expected characteristics, unacceptable
 responses, and the principle boundaries being tested.
+
+## Patterns
+
+- [The model-drop ledger](model-drop-ledger.md): one inventory used as QA sweep, unlock test and benchmark on every new model, with a can't-yet register and standing reviews. Verbatim intent plus editorial scaffolding and a bootstrap prompt for a new machine.
