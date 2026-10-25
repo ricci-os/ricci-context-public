@@ -2,11 +2,8 @@
 
 This file is an index and a usage contract. It is deliberately **not** a synthesized personality summary.
 
-**You are in layer 1 of 3.** The repository README explains the chain (public start → private `ricci-os/ricci-context` → Matt's local machines) and the rules that bind all three. Read it first. Treat this public layer with care: it is world-readable, so never write anything here that is not already public by Matt's decision, and never treat it as the whole picture.
-
 ## Read in this order
 
-0. [The README: the three layers and their rules](../README.md)
 1. [Working with Matt](../working-with-matt.md)
 2. [Product principles](../principles/product.md)
 3. [Communication principles](../principles/communication.md)

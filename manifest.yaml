@@ -1,7 +1,7 @@
 schema_version: 1
-title: "Start — Matt Ricci's context, for every agent"
+title: "Ricci Context — Public"
 status: published-public
-role: start-page   # layer 1 of 3; layer 2 = github.com/ricci-os/ricci-context (private); layer 3 = Matt's machines
+agent_start: https://github.com/ricci-os/start   # agents begin there, not here
 purpose: >-
   Matt Ricci's public, evolving context repository for humans and agents who
   collaborate with him, grounded in verbatim authored language and explicit provenance.
